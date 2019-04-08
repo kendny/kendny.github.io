@@ -158,7 +158,7 @@ legend {
 }
 
 .header-navbar{
-  background-color: transparent;
+  /* background-color: transparent; */
   box-shadow: 0 0 10px rgba(14, 14, 14, .26);
   height: 55px;
   border: none;
@@ -715,6 +715,7 @@ footer .copyright {
 .container .toc-wrap.toc-fixed {
     position: fixed;
     top: 85px;
+    right: 0px; /* fix  table of content position */
     margin-top: 0;
     max-height: 81%;
     overflow: auto;
@@ -1129,3 +1130,5 @@ article blockquote cite:before{
 .poetry-comments {
   width: 800px;
 }
+
+.
