@@ -159,6 +159,8 @@ legend {
 
 .header-navbar{
   /* background-color: transparent; */
+  position: fixed;
+  top: 0px;
   box-shadow: 0 0 10px rgba(14, 14, 14, .26);
   height: 55px;
   border: none;
