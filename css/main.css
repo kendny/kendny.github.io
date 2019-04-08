@@ -204,7 +204,7 @@ legend {
 
 @media only screen and (min-width: 768px) {
     .header-navbar {
-        background: transparent;
+        /* background: transparent; */
         border-bottom: 1px solid transparent;
     }
     .header-navbar body {
@@ -716,7 +716,7 @@ footer .copyright {
 
 .container .toc-wrap.toc-fixed {
     position: fixed;
-    top: 85px;
+    top: 62px;
     right: 0px; /* fix  table of content position */
     margin-top: 0;
     max-height: 81%;
